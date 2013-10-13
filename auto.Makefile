@@ -1,4 +1,4 @@
-# simple easy automatical Makefile
+# simple easy automatic Makefile
 # https://github.com/jhlix
 # layout: [include/]  src/  (no additional directories)
 # .c and Makefile in src; .h in include (can be in src)
